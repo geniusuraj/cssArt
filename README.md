@@ -19,7 +19,7 @@ You can see the live demo of the CSS art [here](https://cssartbysuraj.netlify.ap
 
 To use the CSS art, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-repo.git`
+1. Clone the repository: `git clone https://github.com/geniusuraj/cssArt.git`
 2. Open `index.html` in a web browser.
 3. Enjoy the CSS art!
 
